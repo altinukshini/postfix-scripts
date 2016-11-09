@@ -3,6 +3,9 @@
 # pfdel - deletes message containing specified address from
 # Postfix queue. Matches either sender or recipient address.
 #
+# Place scripts in /user/local/bin
+# Make script executable
+#
 # Usage: pfdel <email_address>
 #
 
